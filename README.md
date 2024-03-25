@@ -4,7 +4,7 @@ A Python implementation of a variation of chess
 ## Project timeline and technologies used
 
 I coded this chess game over the course of two weeks to showcase my technical skillset.
-The chess game is entirley in Python and I utilized GitHub for version control.
+The chess game is entirely in Python and I utilized GitHub for version control.
 
 ## Description
 
